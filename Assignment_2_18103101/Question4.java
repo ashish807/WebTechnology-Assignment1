@@ -1,14 +1,17 @@
 public class Main
 {
-    public static void main (String[] args) {
-        int i = 1;
-        int ans = 0;
-        while(i*((i+1)/2) > 0) {
-            if(i*((i+1)/2 )== i*i) {
-                ans = i;
-            }
-            i++;
-        }
-        System.out.println(ans);
-    }
+	public static void main(String[] args) {
+		int n =1;
+		int val_sum =1;
+		while(n<Integer.MAX_VALUE){
+		    if(val_sum==n*n){
+		    System.out.println("Ans: "+n);
+		}
+		n+=1;
+		val_sum+=n;
+		
+		    
+		}
+		System.out.println("Sum: "+ val_sum + "n: "+n);
+	}
 }
