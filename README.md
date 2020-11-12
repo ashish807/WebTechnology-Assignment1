@@ -1,3 +1,4 @@
 # WebTechnology-Assignments
 
-All the assignments are here in this repository except for Assignment 5. Access Assignment 5 from this [link](https://github.com/ashish807/WebTech-Assignment-5)
+I have hosted the Assignment 5, access through this [link](https://ashish807.github.io/Hosting-Assignment-5-WT/)
+All assignment are arranged according to assignment number except for assignment 1.
